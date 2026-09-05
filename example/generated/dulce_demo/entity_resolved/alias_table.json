@@ -1,0 +1,18 @@
+{
+  "alias": {
+    "Agent Alex Mercer": "Alex Mercer",
+    "Alex": "Alex Mercer",
+    "Agent Mercer": "Alex Mercer",
+    "Mercer": "Alex Mercer",
+    "Sam": "Sam Rivera",
+    "Dr. Jordan Hayes": "Jordan Hayes",
+    "Jordan": "Jordan Hayes",
+    "Taylor": "Taylor Cruz",
+    "Agent Cruz": "Taylor Cruz"
+  },
+  "blocklist": [
+    "Agent Alex Mercer and Dr. Jordan Hayes",
+    "Taylor Cruz's voice",
+    "Taylor's steely gaze"
+  ]
+}

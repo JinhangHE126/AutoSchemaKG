@@ -1,0 +1,96 @@
+{
+  "before": {
+    "num_nodes_total": 382,
+    "num_entity_nodes": 104,
+    "num_edges": 469,
+    "num_unique_edges": 450,
+    "variants": {
+      "Alex Mercer": {
+        "variants_present": [
+          "Agent Alex Mercer",
+          "Alex Mercer",
+          "Alex",
+          "Agent Mercer",
+          "Mercer"
+        ],
+        "num_variants": 5
+      },
+      "Sam Rivera": {
+        "variants_present": [
+          "Sam Rivera",
+          "Sam"
+        ],
+        "num_variants": 2
+      },
+      "Jordan Hayes": {
+        "variants_present": [
+          "Dr. Jordan Hayes",
+          "Jordan Hayes",
+          "Jordan"
+        ],
+        "num_variants": 3
+      },
+      "Taylor Cruz": {
+        "variants_present": [
+          "Taylor Cruz",
+          "Taylor",
+          "Agent Cruz"
+        ],
+        "num_variants": 3
+      }
+    }
+  },
+  "after": {
+    "num_nodes_total": 373,
+    "num_entity_nodes": 95,
+    "num_edges": 449,
+    "num_unique_edges": 449,
+    "variants": {
+      "Alex Mercer": {
+        "variants_present": [
+          "Alex Mercer"
+        ],
+        "num_variants": 1
+      },
+      "Sam Rivera": {
+        "variants_present": [
+          "Sam Rivera"
+        ],
+        "num_variants": 1
+      },
+      "Jordan Hayes": {
+        "variants_present": [
+          "Jordan Hayes"
+        ],
+        "num_variants": 1
+      },
+      "Taylor Cruz": {
+        "variants_present": [
+          "Taylor Cruz"
+        ],
+        "num_variants": 1
+      }
+    },
+    "dropped_self_loops": 0,
+    "dropped_duplicate_edges": 20,
+    "merged_into": {
+      "Alex Mercer": [
+        "Agent Alex Mercer",
+        "Agent Mercer",
+        "Alex",
+        "Mercer"
+      ],
+      "Taylor Cruz": [
+        "Agent Cruz",
+        "Taylor"
+      ],
+      "Jordan Hayes": [
+        "Dr. Jordan Hayes",
+        "Jordan"
+      ],
+      "Sam Rivera": [
+        "Sam"
+      ]
+    }
+  }
+}
